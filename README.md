@@ -30,7 +30,7 @@ The robot integrates various hardware and software components to achieve autonom
 The autonomous operations are driven by a robust software framework, detailed in the process flow diagram below:
 
 <p align="center">
-  <img src="images/process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="750">
+  <img src="process_flow.png" alt="Autonomous Robot Process Flow" width="850" height="750">
 </p>
 
 ### Code
@@ -41,7 +41,7 @@ The robot's operations in the final challenge are controlled by the script locat
 
 Experience our journey through this course, from the initial stages of building the robot to the final challenge, in the video linked below:
 
-[![Course Journey Video](https://www.youtube.com/watch?v=4t52yHKE1sg)]
+https://www.youtube.com/watch?v=4t52yHKE1sg
 
 ## Achievements
 
