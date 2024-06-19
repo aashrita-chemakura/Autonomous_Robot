@@ -4,11 +4,9 @@
 
 ENPM809T - Autonomous Robotics at the University of Maryland, College Park, provides a comprehensive hands-on experience in robotics. Throughout this course, we focus on key robotic concepts such as Perception, Planning, Controls, and Modeling to build a fully functional autonomous robot. The culmination of our efforts is demonstrated in a final challenge where the robot performs tasks typical of a construction zone environment.
 
-
-
 ## Course Challenge
 
-The final challenge involves the robot autonomously picking up and placing objects accurately between designated points, simulating a practical application in construction zones. This reduces the workload on human labor and showcases the practical utility of robotic applications.
+The final challenge involves the robot autonomously picking up and placing objects accurately between accurately between a designated start and goal point, simulating a practical application in construction zones. This reduces the workload on human labor and showcases the practical utility of robotic applications.
 
 ## Integration Details
 
@@ -35,7 +33,7 @@ The autonomous operations are driven by a robust software framework, detailed in
 
 ### Code
 
-The robot's operations in the final challenge are controlled by the script located at `code/autonomous_robot.py`.
+The robot's operations in the final challenge are controlled by the script located at `final_code.py`.
 
 ## Course Journey Video
 
@@ -45,7 +43,7 @@ https://www.youtube.com/watch?v=4t52yHKE1sg
 
 ## Achievements
 
-In the final competition, our robot successfully picked and placed 8 out of 9 RGB blocks, demonstrating effective integration and functionality of the learned concepts.
+In the final competition, our robot successfully picked and placed 7 out of 9 RGB blocks, demonstrating effective integration and functionality of the learned concepts.
 
 ## Support
 
